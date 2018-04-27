@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#0288D1</color>
+
+    <!-- Primary dark color of the app (shown in the app bar) -->
+    <color name="colorPrimaryDark">#01579B</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#C62828</color>
+
+    <!-- Background color for the app -->
+    <color name="colorBackground">#FFF7DA</color>
+
+    <!-- Background color for the Attractions category -->
+    <color name="colorAttractions">#00838F</color>
+
+    <!-- Background color for the Museums category -->
+    <color name="colorMuseums">#2E7D32</color>
+
+    <!-- Background color for the Activities category -->
+    <color name="colorActivities">#EF6C00</color>
+
+    <!-- Background color for the Night Life category -->
+    <color name="colorNightLife">#6A1B9A</color>
+
+</resources>

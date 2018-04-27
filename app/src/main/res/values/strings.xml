@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- Strings regarding the Attractions -->
+    <string name="category_attractions">Attractions</string>
+    
+    <string name="parthenon">Parthenon</string>
+    <string name="parthenon_info">The Parthenon is the main ancient structure on the Acropolis,
+        a hill in the center of Athens. It is a UNESCO World Heritage Site, the symbol 
+        of Athens and the most famous of the surviving structures from the world of ancient Greece.</string>
+    <string name="parthenon_address">Acropolis, Athens</string>
+    
+    <string name="acropolis">The Acropolis</string>
+    <string name="acropolis_info">Athens\' top must-see attraction and a UNESCO site is the Acropolis,
+        High City or Sacred Rock, a hill overlooking the city and home to the most recognizable
+        symbol of the city, the Parthenon.</string>
+    <string name="acropolis_address">Athens 105 58</string>
+    
+    <string name="temple_zeus">Temple of the Olympian Zeus</string>
+    <string name="temple_zeus_info">The remains of this massive temple stand southeast of the Acropolis.
+        Built in the 2nd century during the Roman era, the temple of Zeus Olympios
+        was the largest in ancient Greece.</string>
+    <string name="temple_zeus_address">Vassilisis Olgas Ave., Athens</string>
+    
+    <string name="theater_dionysos">Theater of Dionysos</string>
+    <string name="theater_dionysos_info">On the southern slope of the Acropolis the pedestrian street
+        of Dionysiou Areopagitou is the site of two ancient performance venues – the Dionysos 
+        Theatre and the Odeion Theatre of Herodes Atticas.</string>
+    <string name="theater_dionysos_address">Dionysiou Areopagitou St., Athens, southern slope of Acropolis</string>
+    
+    <string name="hadrian_arch">Hadrian\'s Arch</string>
+    <string name="hadrian_arch_info">This triumphal arch was erected in the 2nd century AD in honor
+        of the Roman emperor Hadrian. It was probably constructed before Hadrian's visit to Athens on 131/132AD.</string>
+    <string name="hadrian_arch_address">Amallias Ave, Athens (entrance to the site of Temple of Olympian Zeus,
+        south of National Gardens)</string>
+
+    
+    <string name="roman_agora">Roman Agora</string>
+    <string name="roman_agora_info">Visitors to the Agora in Athens get to stroll between what remains
+        of the Roman Forum or center of the city from 19 to 11BC.</string>
+    <string name="roman_agora_address">North of Acropolis, east of Ancient Agora. Main entrance from side street
+        off Adrianou St. east of Stoa of Attalos.</string>
+
+    <string name="ancient_agora">Ancient Agora</string>
+    <string name="ancient_agora_info">The Agora or "gathering place" was the heart of ancient Athens.
+        People would come here to do business, shop, be entertained, hear philosophers expounding their views,
+        attend court, go to school, socialize and conduct politics.</string>
+    <string name="ancient_agora_address">24 Adrianou St., Athens 105 55</string>
+
+    <string name="plaka">Plaka</string>
+    <string name="plaka_info">The Plaka, a neighborhood at the foot of the Acropolis, will be one of the most
+        enchanting places you visit in Athens even though it is geared towards tourists it has retained
+        a charm and picturesque quality.</string>
+    <string name="plaka_address">Neighborhood northeastern side of Acropolis between Syntagma Square and
+        Monastiraki Square</string>
+
+    <!-- Strings regarding the Museums -->
+    <string name="category_museums">Museums</string>
+
+    <string name="acropolis_museum">The Acropolis Museum</string>
+    <string name="acropolis_museum_info">The Acropolis Museum is ultra modern, bright and state-of-the art.
+        There are five main sections to guide you through a unique perpective on the monumental hill.</string>
+    <string name="acropolis_museum_address">Entrance from Dionisiou Areopagitou 15, Makriyianni, Athens 117 42</string>
+    <string name="acropolis_museum_phone">+30 210 900 0901</string>
+
+    <string name="historical_museum">National Historical Museum Athens</string>
+    <string name="historical_museum_info">The building which houses this museum has a long and eventful 
+        history.Among the artifacts on display are traditional costumes, memorabilia, flags, furniture, 
+        medals and personal items which belonged to historical figures. There is an art collection of historical 
+        paintings created by both Greek and foreign artists.</string>
+    <string name="historical_museum_address">Old Parliament Building, Kolokotronis Square, 13 Stadiou St., Athens</string>
+    <string name="historical_museum_phone">+30 210 323 7617</string>
+
+    <string name="benaki_museum">Benaki Museum</string>
+    <string name="benaki_museum_info">The Islamic Collection is one of several branches of the Benaki Museum;
+        it is housed in the Kerameikos building complex. The museum in the center of Athens comprises
+        two neo-classical buildings which are both listed. The buildings have many ornamental features.</string>
+    <string name="benaki_museum_address">1 Koumpari St. &amp; Vas. Sofias Ave, Athens 106 74</string>
+    <string name="benaki_museum_phone">+30 210 367 1000</string>
+
+    <string name="goulandris_museum">Goulandris Museum of Cycladic Art</string>
+    <string name="goulandris_museum_info">The Cyclades are a group of Greek isles in the Aegean Sea.
+        The Cycladic culture flourished on the islands from 3200BC to 2000BC and the archaeological findings
+        on display in this museum give us insight into the islands' ancient civilization.</string>
+    <string name="goulandris_museum_address">Main Building - Neofitou Douka 4, Athens 106 74</string>
+    <string name="goulandris_museum_phone">+30 210 722 8321</string>
+
+    <string name="herakleion_museum">Herakleidon Museum</string>
+    <string name="herakleion_museum_info">This private museum is in the shadow of the Acropolis in a neo-classic
+        building dating back to 1898. The museum\'s goal is to introduce visitors to the world of fine arts by
+        highlighting the work of specific artists who have made a major contribution to art.</string>
+    <string name="herakleion_museum_address">Herakleidon 6, Thissio, 118 51 Athens</string>
+    <string name="herakleion_museum_phone">+30 210 346 1981</string>
+
+    <string name="archeological_museum">National Archaeological Museum</string>
+    <string name="archeological_museum_info">o see the largest collection of archaeological findings from
+        Greece visit this centrally located museum. The huge neo-classical building was expanded in several
+        stages to make room for the growing collection.</string>
+    <string name="archeological_museum_address">44 Patission St. Athens, 106 82</string>
+    <string name="archeological_museum_phone">+30 213 214 4800</string>
+
+    <string name="athens_museum">Athens City Museum</string>
+    <string name="athens_museum_info">With so many of the city\'s sites devoted to the ancient
+        civilizations of Athens it is refreshing to visit this museum which focuses on the modern
+        history of the Greek capital.</string>
+    <string name="athens_museum_address">5-7 Paparrigopoulou St. Athens 105 61</string>
+    <string name="athens_museum_phone">+30 210 324 6164</string>
+
+    <string name="folk_museum">Greek Folk Art Museum</string>
+    <string name="folk_museum_info">The Museum of Greek Handicraft was founded in 1918 and in 1959 its
+        name was changed to the Museum of Greek Folk Art. The museum has four sections each housed in a
+        different location.</string>
+    <string name="folk_museum_address">Central Building - Kidathineon 17, Plaka</string>
+    <string name="folk_museum_phone">+30 210 324 5957</string>
+
+    <!-- Strings regarding the Activities -->
+    <string name="category_acivities">Activities</string>
+
+    <string name="delphi_trip">Delphi Day Trip from Athens</string>
+    <string name="delphi_trip_info">Immerse yourself in the myths and monuments of classical Greece
+        on this full-day tour of Delphi from Athens.Explore the UNESCO-listed archeological site of
+        Delphi with an expert guide and learn how the city was considered the ‘Center of the World’
+        in ancient Greece.</string>
+    
+    <string name="islands_cruise">Hydra, Poros and Egina Day Cruise from Athens</string>
+    <string name="islands_cruise_info">Discover three beautiful Greek islands on this full-day cruise from
+        Athens. Sail to Poros, Hydra and Egina in the Saronic Gulf and enjoy free time at each island to
+        stroll, sightsee and shop as you wish.</string>
+    
+    <string name="sounion_trip">Cape Sounion and Temple of Poseidon Half-Day Trip from Athens</string>
+    <string name="sounion_trip_info">Marvel over one of Greece’s most photographed monuments on this half-day
+        tour to the Temple of Poseidon from Athens. You’ll have chance to get up close to the ancient monument,
+        explore ruins dating back to 44 B.C and soak up the impressive coastal views.</string>
+
+    <string name="riviera_trip">City Sightseeing Athens, Piraeus &amp; Beach Riviera Hop-On Hop-Off Tour</string>
+    <string name="riviera_trip_info">Experience the best of Athens in one day and your own way, with this City Sightseeing
+        hop-on hop-off Athens bus tour. . Travel around by open-top double-decker bus and create your own sightseeing
+        itinerary.</string>
+
+    <string name="sky_dinner">Dinner in the Sky Athens</string>
+    <string name="sky_dinner_info">Eat dinner in a revolving restaurant suspended in the sky during this 1.5-hour
+        experience in Athens. From a bird\'s eye view at 165 feet (50 meters) in the air, get views of the city of
+        Athens lit up at night</string>
+
+    <string name="bar_tour">Athens Bar Hopping Tour</string>
+    <string name="bar_tour_info">Experience the electric atmosphere of Athens by night on this 3-hour bar-hopping
+        tour. Join your local guide and fellow party-lovers for an evening of Greek-style entertainment and get the
+        inside scoop on the city’s nightlife.</string>
+
+    <string name="corinth_trip">Corinth Half-Day Trip from Athens</string>
+    <string name="corinth_trip_info">Explore the ruins of ancient Corinth and see the Corinth Canal on this Athens
+        half-day tour.  Stroll around the relics of Corinth, once an influential ancient Greek and Roman city, and then
+        visit the seaside town of Kehreai before your return to Athens.</string>
+    
+    <string name="walking_tour">Hidden Athens Walking Tour and Picnic: Plaka and the Hills of Athens</string>
+    <string name="walking_tour_info">Escape the well-trodden tourist track and discover a quieter side of Athens on
+        this leisurely 3.5-hour to 4-hour walking tour. With a local guide, explore the tucked-away areas around the
+        slopes of the Acropolis and uncover their ancient and recent past.</string>
+
+    <!-- Strings regarding the Night Life -->
+    <string name="category_night_life">Night Life</string>
+    
+    <string name="wine_bar">Wine O\'Clock</string>
+    <string name="wine_bar_info">A cozy winebar on walking distance from Acropolis Museum.Its owners, Andreas and Alex
+        welcome you very friendly, and will give you their best advice about their delicious wine and appetizers.</string>
+    <string name="wine_bar_address"> Lempesi 10, Athens 117 42</string>
+    <string name="wine_bar_phone">+30 694 837 8922</string>
+    
+    <string name="brettos_bar">Brettos Bar</string>
+    <string name="brettos_bar_info">A little gem of a distillery in the Plaka area. Beautiful deco, delectable self
+        distilled spirits and friendly service make for a delightful cocktail. A must see on a trip to Athens!</string>
+    <string name="brettos_bar_address">Kydathinaion 41 Plaka, Athens</string>
+    <string name="brettos_bar_phone">+30 210 323 2110</string>
+
+    <string name="taf_art">Taf The Art Foundation</string>
+    <string name="taf_art_info">A really cool bar with an open courtyard where you can relax with a well-made cocktail.
+        A bit hidden away, but that only adds to the experience. There is also an art gallery on the premises, but make
+        sure you come early if you want to see the art</string>
+    <string name="taf_art_address">Normanou 5 Monastiraki, Athens 105 55</string>
+    <string name="taf_art_phone">+30 210 323 8757</string>
+
+    <string name="a_bar">A for Athens Cocktail Bar</string>
+    <string name="a_bar_info">The outside rooftop bar is busy as it has great view. Recommended for a cool drink
+        with excellent view of the Acropolis and the surrounding areas so be sure not to forget your camera!</string>
+    <string name="a_bar_address">Miaouli 2 - 4 Monastiraki, Athens 105 54</string>
+    <string name="a_bar_phone">+30 210 324 4244</string>
+
+    <string name="clumsies">The Clumsies</string>
+    <string name="clumsies_info">There\'s a reason this place is one of the best. he cocktail list is
+        expansive and original. The bartenders are artists with flavor. The atmosphere is excellent.It\'s
+        worth paying extra for the care and attention.</string>
+    <string name="clumsies_address">Praxitelous 30, Athens 105 61</string>
+    <string name="clumsies_phone">+30 210 323 2682</string>
+
+    <string name="local_pub">The Local Pub</string>
+    <string name="local_pub_info">A traditional pub with amazing beers. The selection of beers is excellent,
+        the staff is superb, and the atmosphere of regular guests made it an excellent place.</string>
+    <string name="local_pub_address">Chaimanta 25, Athens 152 34</string>
+    <string name="local_pub_phone">+30 694 086 4443</string>
+
+    <string name="thesis">Thesis 7</string>
+    <string name="thesis_info">Great little oasis on a hot day in Athens. High on positive vibes, great atmosphere,
+        friendly family owners, and friendly patrons. A must visit for anyone looking for a fun evening.</string>
+    <string name="thesis_address"> Agiou Filippou 7 Monastiraki, Athens 105 55</string>
+    <string name="thesis_phone">+30 216 900 0790</string>
+
+    <string name="prima_cava">Materia Prima Cava &amp; Wine Bar</string>
+    <string name="prima_cava_info">An excellent place to taste carefully selected wines,local and international!
+        The space is beautifully decorated,wine oriented and you can also have delicious dishes to
+        combine with your wine.</string>
+    <string name="prima_cava_address">Falirou 68 Koukaki, Athens 117 41</string>
+    <string name="prima_cava_phone">+30 210 924 5935</string>
+
+</resources>

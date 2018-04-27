@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/image"
+                tools:src="@drawable/img_a_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:id="@+id/locationTitle"
+                style="@style/LocationTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="@string/a_bar" />
+
+            <TextView
+                android:id="@+id/locationDescription"
+                style="@style/LocationDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="@string/a_bar_info" />
+
+            <TextView
+                android:id="@+id/locationAddress"
+                style="@style/LocationDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_place_black_24dp"
+                tools:text="@string/a_bar_address"
+                android:drawableStart="@drawable/ic_place_black_24dp" />
+
+            <TextView
+                android:id="@+id/locationNumber"
+                style="@style/LocationDetails"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_phone_black_24dp"
+                tools:text="@string/a_bar_phone"
+                android:drawableStart="@drawable/ic_phone_black_24dp" />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
